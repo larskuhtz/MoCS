@@ -5,7 +5,7 @@
 #
 # MoCS (https://lewis.cs.uni-saarland.de/tools/mocs/): "test/funcs.sh".
 # The content of this file is copyright of Saarland University -
-# Copyright (C) 2009 Saarland University, Reactive Systems Group, Lars Kuhtz <kuhtz@cs.uni-sb.de>.
+# Copyright (C) 2009 Saarland University, Reactive Systems Group, Lars Kuhtz.
 #
 # This file is part of MoCS (https://lewis.cs.uni-saarland.de/tools/mocs/).
 #
