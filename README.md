@@ -16,7 +16,7 @@ temporal scope.
 Reference: [Bernd Finkbeiner and Lars Kuhtz. Monitor Circuits for LTL with
 Bounded and Unbounded Future. Proceedings of RV 09, LNCS 5779, 2009.](http://react.cs.uni-sb.de/publications/FK09.html)
 
-Author: Lars Kuhtz <kuhtz@cs.uni-sb.de>
+Author: [Lars Kuhtz](http://react.cs.uni-sb.de/people/kuhtz.html)
 
 Original project page: [http://react.cs.uni-sb.de/tools/mocs.html]()
 
@@ -31,12 +31,12 @@ generated VHDL Model.
 
 Currently I am not actively developing MoCS. I release the source code as
 
--   a reference for the corresponding paper[^1],
+-   a reference for the corresponding paper [1],
 -   an inspiration for any related projects, and
 -   a starting point if someone want's to pick up MoCS and
     continue development.
 
-[^1]: [Bernd Finkbeiner and Lars Kuhtz. Monitor Circuits for LTL with Bounded 
+[1]: [Bernd Finkbeiner and Lars Kuhtz. Monitor Circuits for LTL with Bounded 
 and Unbounded Future. Proceedings of RV 09, LNCS 5779, 2009.](http://react.cs.uni-sb.de/publications/FK09.html)
 
 COPYRIGHT AND LICENSE
@@ -44,7 +44,7 @@ COPYRIGHT AND LICENSE
 
 All files in the orginial release of  MoCS are copyright of Saarland University.
 
-Copyright (C) 2009 Saarland University, Reactive Systems Group, Lars Kuhtz <kuhtz@cs.uni-sb.de>.
+Copyright (C) 2009 Saarland University, Reactive Systems Group.
 
 License: three-clause BSD style.
 
