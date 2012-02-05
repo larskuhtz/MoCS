@@ -59,6 +59,17 @@ INSTALLATION FROM SOURCE
 
         make all
 
+Dependencies
+------------
+
+MoCS is coded in C++ and Haskell. Beside of the standard libraries of
+both languages the code depends on some of the [Boost libraries](http://www.boost.org/)
+and on [Parsec](http://hackage.haskell.org/package/parsec).
+
+The build system does not check for dependencies. In particular the code
+may not be compatible with recent versions of Boost and Parsec. As a reference the 
+code did compile on Ubuntu 11.10 64-bit.
+
 USAGE
 =====
 
