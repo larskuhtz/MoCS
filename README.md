@@ -33,8 +33,7 @@ Currently I am not actively developing MoCS. I release the source code as
 
 -   a reference for the corresponding paper [1],
 -   an inspiration for any related projects, and
--   a starting point if someone want's to pick up MoCS and
-    continue development.
+-   a starting point if someone wants to pick up the development.
 
 [1]: [Bernd Finkbeiner and Lars Kuhtz. Monitor Circuits for LTL with Bounded 
 and Unbounded Future. Proceedings of RV 09, LNCS 5779, 2009.](http://react.cs.uni-sb.de/publications/FK09.html)
