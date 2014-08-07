@@ -18,7 +18,7 @@ Bounded and Unbounded Future. Proceedings of RV 09, LNCS 5779, 2009.](http://rea
 
 Author: [Lars Kuhtz](http://react.cs.uni-sb.de/people/kuhtz.html)
 
-Original project page: [http://react.cs.uni-sb.de/tools/mocs.html]()
+Original project page: [http://react.cs.uni-sb.de/tools/mocs.html](http://react.cs.uni-sb.de/tools/mocs.html)
 
 IMPORTANT NOTE
 --------------
